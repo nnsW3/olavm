@@ -61,7 +61,7 @@ pub fn u8_arr_to_field_arr(value: &Vec<u8>) -> Vec<GoldilocksField> {
     assert_eq!(
         value.len() % GOLDILOCKS_FIELD_U8_LEN,
         0,
-        "u8_array len is not align to field"
+        "u8_array len is not aligned to field"
     );
     value
         .iter()
