@@ -1,7 +1,7 @@
 # Client
 This is standalone client of Olavm. 
 
-Olavm comand:
+Olavm command:
 
 Execute an input raw-code file.
 
