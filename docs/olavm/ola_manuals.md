@@ -88,7 +88,7 @@ cd ola-lang
 cargo install --path .
 ```
 
-The executable `olac` will be install in you environment. You can check this by entering the `olac --help `command
+The executable `olac` will be install in your environment. You can check this by entering the `olac --help `command
 
 ### 4. 2 compile ola contract 
 
@@ -120,7 +120,7 @@ cd olavm/client/
 cargo install --path .
 ```
 
-The executable `ola` will be install in you environment. You can check this by entering the `ola --help `command
+The executable `ola` will be install in your environment. You can check this by entering the `ola --help `command
 
 ### 5.2 assembly of smart contract
 
